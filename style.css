@@ -139,3 +139,19 @@ main {
 .contact-icon:hover > svg {
   fill: hsl(0, 0%, 100%);
 }
+button {
+  background:none;
+  border:none;
+  transsition:25ms
+}
+button:hover{
+  opacity:0.6;
+}
+button:active{
+  opacity:0.1;
+}
+.top{
+font-family:Poppins;
+font-weight:bold;
+color:blue;
+}
